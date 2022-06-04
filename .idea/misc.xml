@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/217/AndroidStudioProjects/A09E_ListView2/app/src/main/res/drawable/shape_outline.xml" value="0.26296296296296295" />
+        <entry key="..\:/Users/217/AndroidStudioProjects/A09E_ListView2/app/src/main/res/layout/activity_edit.xml" value="0.21739130434782608" />
+        <entry key="..\:/Users/217/AndroidStudioProjects/A09E_ListView2/app/src/main/res/layout/activity_main.xml" value="0.21739130434782608" />
+        <entry key="..\:/Users/217/AndroidStudioProjects/A09E_ListView2/app/src/main/res/layout/simple_list_item_activated_3.xml" value="0.21739130434782608" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.22407407407407406" />
+        <entry key="app/src/main/res/drawable/shape_outline.xml" value="0.1503833975867405" />
+        <entry key="app/src/main/res/drawable/shape_outline2.xml" value="0.26875" />
+        <entry key="app/src/main/res/drawable/shape_outline3.xml" value="0.26875" />
+        <entry key="app/src/main/res/drawable/shape_outline4.xml" value="0.26875" />
+        <entry key="app/src/main/res/drawable/shape_outline5.xml" value="0.321025641025641" />
+        <entry key="app/src/main/res/layout/activity_edit.xml" value="0.2591152792118665" />
+        <entry key="app/src/main/res/layout/activity_edit2.xml" value="0.20153985507246377" />
+        <entry key="app/src/main/res/layout/activity_edit3.xml" value="0.24811380975210537" />
+        <entry key="app/src/main/res/layout/activity_edit4.xml" value="0.20153985507246377" />
+        <entry key="app/src/main/res/layout/activity_edit5.xml" value="0.17753623188405798" />
+        <entry key="app/src/main/res/layout/activity_list.xml" value="0.223731884057971" />
+        <entry key="app/src/main/res/layout/activity_listbtn.xml" value="0.2441123188405797" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.27190411397844677" />
+        <entry key="app/src/main/res/layout/activity_main2.xml" value="0.2441123188405797" />
+        <entry key="app/src/main/res/layout/activity_start.xml" value="0.21387932359799688" />
+        <entry key="app/src/main/res/layout/simple_list_item_activated_3.xml" value="0.23835660931660568" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
